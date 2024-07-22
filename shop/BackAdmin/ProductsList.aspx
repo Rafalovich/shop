@@ -33,6 +33,7 @@
                                        </ItemTemplate>
                                    </asp:Repeater>
                                 </table>
+                                <a href="ExportExcel.ashx" <i class="fa-solid fa-download"></i>הורדת הרשימה</a>
                             </div>
                             <!-- /.table-responsive -->
                          
